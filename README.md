@@ -22,7 +22,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
 | 💡 [8-Week SQL Challenges](https://github.com/Arora02/8-Week-SQL-Challenge) | Data analysis, data cleaning, data transformation | This repo serves as the solution for the 8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. | 
-| 👩🏻‍⚕️ [Health Analytics Case Study](https://github.com/Arora02/Serious-SQL-Apprenticeship/blob/main/Health%20Analytics%20Mini%20Case%20Study.md) | Health analysis | I answer business questions related to patients data, such as average and median measurements per user, types of measurements for active users, and median blood pressure values for users. |  
+
 
 ***
 
